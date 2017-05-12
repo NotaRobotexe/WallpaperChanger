@@ -1,0 +1,7 @@
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\bin\Release\walpch.exe.config
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\bin\Release\walpch.exe
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\bin\Release\walpch.pdb
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\obj\Release\walpch.Resource1.resources
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\obj\Release\walpch.csproj.GenerateResource.Cache
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\obj\Release\walpch.exe
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\walpch\obj\Release\walpch.pdb
