@@ -89,6 +89,7 @@ namespace sendIT
                 System.IO.Directory.CreateDirectory(path);
             }
 
+            Console.Write("Set time between wallpapers change [in millisecond]: ");
             string delay = Console.ReadLine();  //set delay
             System.IO.StreamWriter conf = new System.IO.StreamWriter("payload\\conf.txt");
 

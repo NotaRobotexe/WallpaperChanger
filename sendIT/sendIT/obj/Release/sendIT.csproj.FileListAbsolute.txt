@@ -1,0 +1,6 @@
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\bin\Release\sendIT.exe.config
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\bin\Release\sendIT.exe
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\bin\Release\sendIT.pdb
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\obj\Release\sendIT.csprojResolveAssemblyReference.cache
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\obj\Release\sendIT.exe
+C:\Users\mt2si\Desktop\projekty\wallpaper changer\walpch\sendIT\sendIT\obj\Release\sendIT.pdb
